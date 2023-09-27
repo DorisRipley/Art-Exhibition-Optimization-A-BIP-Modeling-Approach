@@ -1,4 +1,4 @@
-# Optimization-Project
+# Art Exhibition Optimization: A BIP Modeling Approach
 
 ## Overview:
 This project revolves around the organization of a modern art exhibition at the San Francisco Museum of Modern Art, funded by Josh Riggs, a recent lottery winner and passionate artist. The exhibition aims to showcase a range of artworks from various emerging artists, with Josh Riggs and Celeste McKenzie, a museum director, at the forefront of curating the pieces.
